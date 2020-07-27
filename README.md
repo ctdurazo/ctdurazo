@@ -45,7 +45,7 @@ In my spare time, I enjoy writing and producing music, as well as luthiery.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 [![Christian's github stats](https://github-readme-stats.vercel.app/api?username=ctdurazo&count_private=true&hide=stars,contribs&show_icons=true)](https://github.com/ctdurazo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctdurazo&hide=c&layout=compact)](https://github.com/ctdurazo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctdurazo&hide=css&layout=compact)](https://github.com/ctdurazo/github-readme-stats)
 
 *NOTE: Top languages does not indicate skill level, it is a github metric of which languages I have the most code saved on github. It's a new feature of [github-readme-stats](https://github.com/ctdurazo/github-readme-stats)*
 
