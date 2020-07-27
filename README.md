@@ -48,5 +48,4 @@ I grew up in Charlotte, NC and hold a Bachelor of Science in Computer Science fr
 
 *NOTE: Top languages does not indicate skill level, it is a github metric of which languages I have the most code saved on github. It's a new feature of [github-readme-stats](https://github.com/ctdurazo/github-readme-stats)*
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ctdurazo&repo=github-readme-stats)](https://github.com/ctdurazo/github-readme-stats)
-[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=ctdurazo&repo=ctdurazo.github.io)](https://github.com/ctdurazo/github-readme-stats)
+<!--[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=ctdurazo&repo=ctdurazo.github.io)](https://github.com/ctdurazo/github-readme-stats)-->
