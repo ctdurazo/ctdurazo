@@ -22,6 +22,7 @@ I am from Los Angeles, CA where I work as Founding Engineer at Pacecar Inc.
 I have 5 years of experience in Software Engineering with a focus on Backend APIs, Microservices, and Web Development. 
 I am also an advocate for Open-Source Software, Cybersecurity, and STEM Education.
 In my spare time, I enjoy writing and producing music, as well as luthiery.
+I grew up in Charlotte, NC and hold a Bachelor of Science in Computer Science from North Carolina State University in Raleigh, NC.
 
 ---
 
@@ -40,7 +41,7 @@ In my spare time, I enjoy writing and producing music, as well as luthiery.
 ---
 **Languages and Tools:**  
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"><img width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"><img width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"><img width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"><img width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"><img width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png">
 
 [![Christian's github stats](https://github-readme-stats.vercel.app/api?username=ctdurazo&count_private=true&hide=stars,contribs&show_icons=true)](https://github.com/ctdurazo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctdurazo&hide=css&layout=compact)](https://github.com/ctdurazo/github-readme-stats)
