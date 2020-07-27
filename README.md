@@ -44,19 +44,10 @@ In my spare time, I enjoy writing and producing music, as well as luthiery.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/ctdurazo/github-readme-stats)*
+[![Christian's github stats](https://github-readme-stats.vercel.app/api?username=ctdurazo&count_private=true&hide=stars,contribs&show_icons=true)](https://github.com/ctdurazo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctdurazo&hide=c&layout=compact)](https://github.com/ctdurazo/github-readme-stats)
 
+*NOTE: Top languages does not indicate skill level, it is a github metric of which languages I have the most code saved on github. It's a new feature of [github-readme-stats](https://github.com/ctdurazo/github-readme-stats)*
 
-<a href="https://github.com/ctdurazo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ctdurazo&show_icons=true&include_all_commits=true&theme=radical" alt="Christian's github stats" />
-</a>
-<a href="https://github.com/ctdurazo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctdurazo&layout=compact&theme=radical" />
-</a>
-
-<a href="https://github.com/ctdurazo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctdurazo&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/ctdurazo/ctdurazo.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctdurazo&repo=ctdurazo.github.io&theme=radical" />
-</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ctdurazo&repo=github-readme-stats)](https://github.com/ctdurazo/github-readme-stats)
+[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=ctdurazo&repo=ctdurazo.github.io)](https://github.com/ctdurazo/github-readme-stats)
