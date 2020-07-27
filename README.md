@@ -25,6 +25,7 @@ In my spare time, I enjoy writing and producing music, as well as luthiery.
 
 ---
 
+<!--
 **Now Playing** on Spotify
 
 <a href="https://status.nmoo.dev/now-playing?open">
@@ -32,6 +33,7 @@ In my spare time, I enjoy writing and producing music, as well as luthiery.
 </a>
 
 ---
+-->
 
 - 💬 Ask me about anything [here](https://github.com/ctdurazo/ctdurazo/issues)
 
