@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-I am from Los Angeles, CA where I work as Founding Engineer at Pacecar Inc. 
-I have 5 years of experience in Software Engineering with a focus on Backend APIs, micro-services, and Web Development. 
+I am from Los Angeles, CA where I work as a Software Developer at Expertise.com. 
+I have around 5 years of experience in Software Engineering with a focus on Backend APIs, micro-services, and Web Development. 
 I am also an advocate for Open-Source Software, Cybersecurity, and STEM Education.
 In my spare time, I enjoy writing and producing music, as well as luthiery.
 I grew up in Charlotte, NC and hold a Bachelor of Science in Computer Science from North Carolina State University in Raleigh, NC.
