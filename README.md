@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br />
 
 I am from Los Angeles, CA where I work as a Software Developer at Expertise.com. 
-I have around 5 years of experience in Software Engineering with a focus on Backend APIs, micro-services, and Web Development. 
+I have around 6 years of experience in Software Engineering with a focus on Backend APIs, micro-services, and Web Development. 
 I am also an advocate for Open-Source Software, Cybersecurity, and STEM Education.
 In my spare time, I enjoy writing and producing music, as well as luthiery.
 I grew up in Charlotte, NC and hold a Bachelor of Science in Computer Science from North Carolina State University in Raleigh, NC.
@@ -44,7 +44,7 @@ I grew up in Charlotte, NC and hold a Bachelor of Science in Computer Science fr
 <img width="21px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"> <img width="21px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"><img width="21px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> <img width="21px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> <img width="21px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> <img width="21px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"> <img width="21px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"> <img width="21px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"> <img width="21px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"> <img width="21px" src="https://raw.githubusercontent.com/github/explore/master/topics/homebrew/homebrew.png">
 
 [![Christian's github stats](https://github-readme-stats.vercel.app/api?username=ctdurazo&count_private=true&hide=stars,contribs&show_icons=true)](https://github.com/ctdurazo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctdurazo&hide=css&layout=compact)](https://github.com/ctdurazo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctdurazo&hide=html,css&layout=compact)](https://github.com/ctdurazo/github-readme-stats)
 
 *NOTE: Top languages does not indicate skill level, it is a github metric of which languages I have the most code saved on github. It's a new feature of [github-readme-stats](https://github.com/ctdurazo/github-readme-stats)*
 
